@@ -19,13 +19,66 @@ What is the history of popular reading in the Western world? How does widespread
 Grading
 -------
 
-| REQUIREMENTS | PERCENTAGES |
-| --- | --- |
-| Two oral reports | 20% |
-| Formal write-up of one oral report | 15% |
-| Participation | 25% |
-| Research paper prospectus | 5% |
-| Research paper | 35% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+REQUIREMENTS
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two oral reports
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Formal write-up of one oral report
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Research paper prospectus
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Research paper
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 General Expectations
 --------------------
@@ -37,32 +90,345 @@ General Expectations
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introductions: You, Me, Oprah | &nbsp; |
-| 2 | Oprah's Book Club I | &nbsp; |
-| 3 | Oprah's Book Club II | &nbsp; |
-| 4 | Theories of reading I | &nbsp; |
-| 5 | Oprah's Book Club III | Your reports: Oprah's book club choices |
-| 6 | Theories of reading II | &nbsp; |
-| 7 | The sociology and history of reading I | &nbsp; |
-| 8 | The sociology and history of reading II | &nbsp; |
-| 9 | The sociology and history of reading III | Short paper on Oprah's book club choices due |
-| 10 | Reading and social identity I | &nbsp; |
-| 11 | Reading and social identity II | &nbsp; |
-| 12 | Reading and social identity III | Your reports: social identity and your reading behavior |
-| 13 | Reading as resistance I | &nbsp; |
-| 14 | Reading as resistance II | &nbsp; |
-| 15 | Romance readers I | &nbsp; |
-| {{< td-colspan 3 >}}Out of class: Go visit a comics shop{{< /td-colspan >}} |||
-| 16 | Romance readers II |  {{< br >}}{{< br >}} Your reports: niche romance audiences, and/or your own romance reading {{< br >}}{{< br >}} Short paper on reading and social identity due {{< br >}}{{< br >}}  |
-| 17 | Fandom I | &nbsp; |
-| 18 | Fandom II | &nbsp; |
-| 19 | A visit to the [Rare Books Department](https://www.bpl.org/rare-books-department/) at the [Boston Public Library](https://www.bpl.org/) | Research prospectus due |
-| 20 | The bestseller |  {{< br >}}{{< br >}} Your reports: What makes a bestseller? {{< br >}}{{< br >}} Short paper on romance readers due {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}Out of class: Go visit a mega-chain bookstore, and watch [_You've Got Mail_](http://youvegotmail.warnerbros.com/){{< /td-colspan >}} |||
-| 21 | Bookstores, online and off-line | &nbsp; |
-| 22 | FADS: reading as social engineering | &nbsp; |
-| 23 | FADS: _Harry Potter_ mania | Short paper on bestsellers due |
-| 24 | Research presentations | &nbsp; |
-| 25 | Wrapping up | Research paper due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introductions: You, Me, Oprah
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Oprah's Book Club I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Oprah's Book Club II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Theories of reading I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Oprah's Book Club III
+{{< tdclose >}}
+{{< tdopen >}}
+Your reports: Oprah's book club choices
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Theories of reading II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+The sociology and history of reading I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+The sociology and history of reading II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+The sociology and history of reading III
+{{< tdclose >}}
+{{< tdopen >}}
+Short paper on Oprah's book club choices due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Reading and social identity I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Reading and social identity II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Reading and social identity III
+{{< tdclose >}}
+{{< tdopen >}}
+Your reports: social identity and your reading behavior
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Reading as resistance I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Reading as resistance II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Romance readers I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+Out of class: Go visit a comics shop
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Romance readers II
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Your reports: niche romance audiences, and/or your own romance reading
+
+Short paper on reading and social identity due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Fandom I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Fandom II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+A visit to the [Rare Books Department](https://www.bpl.org/rare-books-department/) at the [Boston Public Library](https://www.bpl.org/)
+{{< tdclose >}}
+{{< tdopen >}}
+Research prospectus due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+The bestseller
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Your reports: What makes a bestseller?
+
+Short paper on romance readers due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+Out of class: Go visit a mega-chain bookstore, and watch [_You've Got Mail_](http://youvegotmail.warnerbros.com/)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Bookstores, online and off-line
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+FADS: reading as social engineering
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+FADS: _Harry Potter_ mania
+{{< tdclose >}}
+{{< tdopen >}}
+Short paper on bestsellers due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Research presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Wrapping up
+{{< tdclose >}}
+{{< tdopen >}}
+Research paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
